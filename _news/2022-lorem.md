@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: Started working as a research intern in the Statistics and Machine Learning Research Group at HKUST
+date: 2022-07-04 00:01:00 +0800
 ---
