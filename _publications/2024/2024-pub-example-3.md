@@ -13,14 +13,14 @@ abstract: >-
 cover:          /assets/images/covers/plum-cover.png
 authors:
   - Rui Pan*
-  - Shuo Xing*
+  - **Shuo Xing** *
   - Shizhe Diao*
   - Wenhe Sun
   - Xiang Liu
   - Kashun Shum
   - Jipeng Zhang
   - Renjie Pi
-  - Tong Zhang#
+  - Tong Zhang
 links:
   Paper: https://aclanthology.org/2024.findings-acl.129/
   Code: https://github.com/research4pan/Plum?tab=readme-ov-file
