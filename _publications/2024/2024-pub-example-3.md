@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/plum-cover.png
 authors:
   - Rui Pan*
-  - **Shuo Xing** *
+  - Shuo Xing *
   - Shizhe Diao*
   - Wenhe Sun
   - Xiang Liu
