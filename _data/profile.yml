@@ -1,61 +1,74 @@
-primary_name: "Your Name"
+primary_name: "Shuo Xing"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Shuo Xing"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  name: PhD student in Computer Science at Texas A&M University
+# - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "shuoxing@tamu.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: HYZvb-YAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: ShuoXing98
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: shuoxing98
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
+  # <p>
+  #   A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  # </p>
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am a second-year PhD student at the [TACO Lab](https://taco-group.github.io/) in Computer Science at [Texas A&M University](https://www.tamu.edu/), supervised by Prof. [Zhengzhong Tu](https://vztu.github.io/). 
+    I received my Master of Science degree in Applied Mathematics from [Nankai University](https://en.nankai.edu.cn/) under the supervision of Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm) in 2023. 
+    Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. From 2022 to 2023, I was a research intern at the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/)
+    , the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I am fortunate to have been working closely with Dr. [Shizhe Diao](https://shizhediao.github.io/) (NVIDIA Research).
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Photo by Yixin Chen.
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Texas A&M University
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Computer Science & Engineering <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+  date: Sep. 2023 - present
+  
+- name: Nankai University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: M.S. in Applied Mathematics
+  date: Sep. 2020 - Jul. 2023
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+- name: Ningxia University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Mathematics
+  date: Aug. 2016 - Jun. 2020
+
+experience:
+- name: Hong Kong University of Science and Technology
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Jul. 2022 - Sep. 2023
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Graduation Thesis
+  date: Oct.2023
+- name: Outstanding Graduates 
+  date: Apr. 2023
+- name: First-Class Scholarship
+  date: Oct. 2022
+- name: The 3rd Prize in the 18th "HUAWEI" Cup Post-Graduate Mathematical Contest in Modeling
+  date: Dec.2021
+- name: Outstanding Graduation Thesis
+  date: Jun.2020
+- name: Outstanding Graduates
+  date: Jun.2020
