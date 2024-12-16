@@ -25,10 +25,13 @@ short_bio: >-
   #   A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   # </p>
   <p>
-    I am a second-year PhD student at the [TACO Lab](https://taco-group.github.io/) in Computer Science at [Texas A&M University](https://www.tamu.edu/), supervised by Prof. [Zhengzhong Tu](https://vztu.github.io/). 
-    I received my Master of Science degree in Applied Mathematics from [Nankai University](https://en.nankai.edu.cn/) under the supervision of Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm) in 2023. 
-    Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. From 2022 to 2023, I was a research intern at the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/)
-    , the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I am fortunate to have been working closely with Dr. [Shizhe Diao](https://shizhediao.github.io/) (NVIDIA Research).
+    I am a second-year PhD student at the <a href="https://taco-group.github.io/" target="_blank">TACO Lab</a> in Computer Science at <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a>, supervised by 
+    Prof. <a href="https://vztu.github.io/" target="_blank">Zhengzhong Tu</a>.  
+    I received my Master of Science degree in Applied Mathematics from <a href="https://en.nankai.edu.cn/" target="_blank">Nankai University</a> under the supervision of Prof. 
+    <a href="http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm" target="_blank">Peixin Ye</a> in 2023.  
+    Previously, I received my Bachelor of Science degree at <a href="http://www.nxu.edu.cn/" target="_blank">Ningxia University</a> in 2020. From 2022 to 2023, I was a research intern at the 
+    Statistics and Machine Learning Research Group, the <a href="https://hkust.edu.hk/" target="_blank">Hong Kong University of Science and Technology</a>. I am fortunate to have been working closely with 
+    Dr. <a href="https://shizhediao.github.io/" target="_blank">Shizhe Diao</a>(NVIDIA Research).
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
