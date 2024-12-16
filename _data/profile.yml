@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Shuo Xing"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/Texas-AM-Seal-Logo.png  # Logo is optional
   name: PhD student in Computer Science at Texas A&M University
 # - name: Position 2 without logo
 
@@ -31,31 +31,31 @@ short_bio: >-
     Dr. <a href="https://shizhediao.github.io/" target="_blank">Shizhe Diao</a>(NVIDIA Research).
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/pic.jpg
 portrait_caption: >-
   Photo by Yixin Chen.
 
 education:
 - name: Texas A&M University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/Texas-AM-Seal-Logo.png
   position: >- 
     Department of Computer Science & Engineering <br/>
     Ph.D. Student
   date: Sep. 2023 - present
   
 - name: Nankai University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Nankai_University_logo.png
   position: M.S. in Applied Mathematics
   date: Sep. 2020 - Jul. 2023
 
 - name: Ningxia University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ningxia-university.png
   position: B.S. in Mathematics
   date: Aug. 2016 - Jun. 2020
 
 experience:
 - name: Hong Kong University of Science and Technology
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/HKUST-Circle.png
   position: Research Intern
   date: Jul. 2022 - Sep. 2023
 
